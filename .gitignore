@@ -1,0 +1,5 @@
+# Ignore Sytem files
+.Ds_Store
+
+# Ignore Log files
+*.log
